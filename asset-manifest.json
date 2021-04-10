@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/puppy-name-picker/static/css/main.7cc89a30.chunk.css",
+    "main.js": "/puppy-name-picker/static/js/main.e0b6c2eb.chunk.js",
+    "main.js.map": "/puppy-name-picker/static/js/main.e0b6c2eb.chunk.js.map",
+    "runtime-main.js": "/puppy-name-picker/static/js/runtime-main.cbc10e14.js",
+    "runtime-main.js.map": "/puppy-name-picker/static/js/runtime-main.cbc10e14.js.map",
+    "static/js/2.83730a35.chunk.js": "/puppy-name-picker/static/js/2.83730a35.chunk.js",
+    "static/js/2.83730a35.chunk.js.map": "/puppy-name-picker/static/js/2.83730a35.chunk.js.map",
+    "index.html": "/puppy-name-picker/index.html",
+    "static/css/main.7cc89a30.chunk.css.map": "/puppy-name-picker/static/css/main.7cc89a30.chunk.css.map",
+    "static/js/2.83730a35.chunk.js.LICENSE.txt": "/puppy-name-picker/static/js/2.83730a35.chunk.js.LICENSE.txt",
+    "static/media/paw-print.fc22174e.png": "/puppy-name-picker/static/media/paw-print.fc22174e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbc10e14.js",
+    "static/js/2.83730a35.chunk.js",
+    "static/css/main.7cc89a30.chunk.css",
+    "static/js/main.e0b6c2eb.chunk.js"
+  ]
+}
